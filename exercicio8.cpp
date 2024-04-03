@@ -9,7 +9,10 @@ int main() {
     printf("terceiro lado");
     scanf("%d", &lado3);
 
-    int 
+    printf("%d\n", (lado1 + lado2 > lado3) );
+
+    return 0;
+}
 
 
 
